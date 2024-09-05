@@ -1,0 +1,18 @@
+package kartikworld;
+
+public class Helloworld {
+	public static void main(String[]args)
+	{
+		System.out.println("Hello everyone.");
+		System.out.println("My name is  Kartik Shivaji Tale.");
+		System.out.println("I am from Buldhana Distric.");
+		System.out.println("I have done my Engineering in Mechanical from Amravati University.");
+		System.out.println("My strengths are i am self motivated and hard working.");
+		System.out.println("My hobbies are listing and singing a song and playing cricket.");
+		System.out.println("Thats all about me'");
+		System.out.println("Thank You.");
+	
+	
+	}
+
+}
